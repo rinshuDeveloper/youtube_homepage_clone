@@ -55,7 +55,8 @@ This project replicates:
 * Sidebar menu
 * Video thumbnails section
 
-![YouTube Clone Preview](screenshot1.png)
+<img width="1907" height="968" alt="screenshot1" src="https://github.com/user-attachments/assets/d0cff3d4-d0a5-422f-a748-fb8e44bdfa8f" />
+
 
 ## ⚠️ Disclaimer
 
